@@ -47,3 +47,12 @@ The following resource I use to understand, what is my progress and how I need t
 * [Cracking FAANG](https://www.youtube.com/@crackfaang)
 * [Neetcode](https://www.youtube.com/@NeetCode)
 * [Greg Hogg](https://www.youtube.com/@GregHogg)
+
+
+## Weekly progress
+
+* 13.09.2024 - Friday
+
+![Screenshot from 2024-09-13 15-11-15](https://github.com/user-attachments/assets/4c5eec89-cb73-4cd9-a067-c2a4bdc92f06)
+
+
