@@ -48,6 +48,10 @@ The following resource I use to understand, what is my progress and how I need t
 * [Neetcode](https://www.youtube.com/@NeetCode)
 * [Greg Hogg](https://www.youtube.com/@GregHogg)
 
+## Maybe some certifications
+
+* [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
+* [Meta-Coding Interview Preparation](https://www.coursera.org/learn/coding-interview-preparation)
 
 ## Weekly progress
 
