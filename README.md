@@ -48,6 +48,10 @@ The following resource I use to understand, what is my progress and how I need t
 * [Neetcode](https://www.youtube.com/@NeetCode)
 * [Greg Hogg](https://www.youtube.com/@GregHogg)
 
+## Specific topics, that I find extremely helpful
+
+* [Recursion - full course](https://www.youtube.com/watch?v=IJDJ0kBx2LM)
+
 ## Maybe some certifications
 
 * [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
