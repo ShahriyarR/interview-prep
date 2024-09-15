@@ -51,6 +51,9 @@ The following resource I use to understand, what is my progress and how I need t
 ## Specific topics, that I find extremely helpful
 
 * [Recursion - full course](https://www.youtube.com/watch?v=IJDJ0kBx2LM)
+* [Graph Theory](https://youtube.com/playlist?list=PLpXOY-RxVRTPPVLBP6-sz6CMWxhtrI-v_&si=Xn3EUW5QTgdk9KFK)
+* [Graph Algorithms Course for Technical Interviews](https://www.youtube.com/watch?v=2_Uuixtc5i0)
+
 
 ## Maybe some certifications
 
