@@ -6,31 +6,24 @@ My Interview Preparation process, resources, and findings.
 
 Added problem list, as I learn. That means, I started with Binary Search and went with Two Pointers, etc.
 
-### Binary Search
-
-* [Easy](https://leetcode.com/problem-list/binary-search/?difficulty=EASY)
-* [Medium](https://leetcode.com/problem-list/binary-search/?difficulty=MEDIUM)
-* [Hard](https://leetcode.com/problem-list/binary-search/?difficulty=HARD)
-
-### Two Pointers
-
-* [Easy](https://leetcode.com/problem-list/two-pointers/?difficulty=EASY)
-* [Medium](https://leetcode.com/problem-list/two-pointers/?difficulty=MEDIUM)
-* [Hard](https://leetcode.com/problem-list/two-pointers/?difficulty=HARD)
-
-
-### Sliding Window
-
-* [Easy](https://leetcode.com/problem-list/sliding-window/?difficulty=EASY)
-* [Medium](https://leetcode.com/problem-list/sliding-window/?difficulty=MEDIUM)
-* [Hard](https://leetcode.com/problem-list/sliding-window/?difficulty=HARD)
-
-
-### Prefix Sum
-
-* [Easy](https://leetcode.com/problem-list/prefix-sum/?difficulty=EASY)
-* [Medium](https://leetcode.com/problem-list/prefix-sum/?difficulty=MEDIUM)
-* [Hard](https://leetcode.com/problem-list/prefix-sum/?difficulty=HARD)
+| List 1       |                                                                                         List 2      |
+| -------------|                                                                                        ------------- |
+| **Binary Search** |                                                                                   **Depth-First Search** |
+| * [Easy](https://leetcode.com/problem-list/binary-search/?difficulty=EASY) |                          * [Easy](https://leetcode.com/problem-list/depth-first-search/?difficulty=EASY) | 
+| * [Medium](https://leetcode.com/problem-list/binary-search/?difficulty=MEDIUM) |                      * [Medium](https://leetcode.com/problem-list/depth-first-search/?difficulty=MEDIUM) |
+| * [Hard](https://leetcode.com/problem-list/binary-search/?difficulty=HARD) |                          * [Hard](https://leetcode.com/problem-list/depth-first-search/?difficulty=HARD) |
+| **Two Pointers** |
+| * [Easy](https://leetcode.com/problem-list/two-pointers/?difficulty=EASY) |
+| * [Medium](https://leetcode.com/problem-list/two-pointers/?difficulty=MEDIUM) |
+| * [Hard](https://leetcode.com/problem-list/two-pointers/?difficulty=HARD) |
+| **Sliding Window** |
+| * [Easy](https://leetcode.com/problem-list/sliding-window/?difficulty=EASY) |
+| * [Medium](https://leetcode.com/problem-list/sliding-window/?difficulty=MEDIUM) |
+| * [Hard](https://leetcode.com/problem-list/sliding-window/?difficulty=HARD) |
+| **Prefix Sum** |
+| * [Easy](https://leetcode.com/problem-list/prefix-sum/?difficulty=EASY) |
+| * [Medium](https://leetcode.com/problem-list/prefix-sum/?difficulty=MEDIUM) |
+| * [Hard](https://leetcode.com/problem-list/prefix-sum/?difficulty=HARD) |
 
 
 ## Main progress tracking
