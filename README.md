@@ -12,10 +12,10 @@ Added problem list, as I learn. That means, I started with Binary Search and wen
 | * [Easy](https://leetcode.com/problem-list/binary-search/?difficulty=EASY) |                          * [Easy](https://leetcode.com/problem-list/depth-first-search/?difficulty=EASY) | 
 | * [Medium](https://leetcode.com/problem-list/binary-search/?difficulty=MEDIUM) |                      * [Medium](https://leetcode.com/problem-list/depth-first-search/?difficulty=MEDIUM) |
 | * [Hard](https://leetcode.com/problem-list/binary-search/?difficulty=HARD) |                          * [Hard](https://leetcode.com/problem-list/depth-first-search/?difficulty=HARD) |
-| **Two Pointers** |
-| * [Easy](https://leetcode.com/problem-list/two-pointers/?difficulty=EASY) |
-| * [Medium](https://leetcode.com/problem-list/two-pointers/?difficulty=MEDIUM) |
-| * [Hard](https://leetcode.com/problem-list/two-pointers/?difficulty=HARD) |
+| **Two Pointers** |                                                                                    **Recursion** |
+| * [Easy](https://leetcode.com/problem-list/two-pointers/?difficulty=EASY) |                           * [Easy](https://leetcode.com/problem-list/recursion/?difficulty=EASY)
+| * [Medium](https://leetcode.com/problem-list/two-pointers/?difficulty=MEDIUM) |                       * [Medium](https://leetcode.com/problem-list/recursion/?difficulty=MEDIUM)
+| * [Hard](https://leetcode.com/problem-list/two-pointers/?difficulty=HARD) |                           * [Hard](https://leetcode.com/problem-list/recursion/?difficulty=HARD)
 | **Sliding Window** |
 | * [Easy](https://leetcode.com/problem-list/sliding-window/?difficulty=EASY) |
 | * [Medium](https://leetcode.com/problem-list/sliding-window/?difficulty=MEDIUM) |
