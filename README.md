@@ -30,9 +30,10 @@ Added problem list, as I learn. That means, I started with Binary Search and wen
 
 The following resource I use to understand, what is my progress and how I need to proceed.
 
-* [Algo Monsert](https://algo.monster/) -> I purchased the annual subscription, it has definitive sequential guidance.
+* [Algo Monsert](https://algo.monster/) -> I purchased the annual subscription, it has definitive sequential guidance and is more clear.
 * [Algomap](https://algomap.io/) -> interesting resource to get the list of the problems we need to master.
-* [Neetcode](https://neetcode.io/) -> extra progress tracking and learning place.
+* [Neetcode](https://neetcode.io/) -> extra progress tracking and learning place (I will consider to purchase)
+* [Structy](https://structy.net/) -> currently passing the free lessons, for easy explanations this guy is an expert(later on probably will consider purchasing)
 * [Educative](https://www.educative.io/courses/grokking-coding-interview-patterns-python) -> as extra reading material for the solutions.
 
 ## Youtube channels
