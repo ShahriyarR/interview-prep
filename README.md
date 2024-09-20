@@ -32,7 +32,7 @@ The following resource I use to understand, what is my progress and how I need t
 
 * [Algo Monsert](https://algo.monster/) -> I purchased the annual subscription, it has definitive sequential guidance and is more clear.
 * [Algomap](https://algomap.io/) -> interesting resource to get the list of the problems we need to master.
-* [Neetcode](https://neetcode.io/) -> extra progress tracking and learning place (I will consider to purchase)
+* [Neetcode](https://neetcode.io/) -> extra progress tracking and learning place (I will consider purchasing)
 * [Structy](https://structy.net/) -> currently passing the free lessons, for easy explanations this guy is an expert(later on probably will consider purchasing)
 * [Educative](https://www.educative.io/courses/grokking-coding-interview-patterns-python) -> as extra reading material for the solutions.
 
@@ -60,5 +60,10 @@ The following resource I use to understand, what is my progress and how I need t
 * 13.09.2024 - Friday
 
 ![Screenshot from 2024-09-13 15-11-15](https://github.com/user-attachments/assets/4c5eec89-cb73-4cd9-a067-c2a4bdc92f06)
+
+* 20.09.2024 - Friday
+
+![Screenshot from 2024-09-20 19-57-37](https://github.com/user-attachments/assets/761469b9-83fc-4b37-970d-2a10d4fb74db)
+
 
 
