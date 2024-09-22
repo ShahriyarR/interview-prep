@@ -20,10 +20,10 @@ Added problem list, as I learn. That means, I started with Binary Search and wen
 | * [Easy](https://leetcode.com/problem-list/sliding-window/?difficulty=EASY) |                         * [Easy](https://leetcode.com/problem-list/linked-list/?difficulty=EASY)
 | * [Medium](https://leetcode.com/problem-list/sliding-window/?difficulty=MEDIUM) |                     * [Medium](https://leetcode.com/problem-list/linked-list/?difficulty=MEDIUM)
 | * [Hard](https://leetcode.com/problem-list/sliding-window/?difficulty=HARD) |                         * [Hard](https://leetcode.com/problem-list/linked-list/?difficulty=MEDIUM)
-| **Prefix Sum** |
-| * [Easy](https://leetcode.com/problem-list/prefix-sum/?difficulty=EASY) |
-| * [Medium](https://leetcode.com/problem-list/prefix-sum/?difficulty=MEDIUM) |
-| * [Hard](https://leetcode.com/problem-list/prefix-sum/?difficulty=HARD) |
+| **Prefix Sum** |                                                                                      **Binary Search Tree** |
+| * [Easy](https://leetcode.com/problem-list/prefix-sum/?difficulty=EASY) |                             * [Easy](https://leetcode.com/problem-list/binary-search-tree/?difficulty=EASY)
+| * [Medium](https://leetcode.com/problem-list/prefix-sum/?difficulty=MEDIUM) |                         * [Medium](https://leetcode.com/problem-list/binary-search-tree/?difficulty=MEDIUM)
+| * [Hard](https://leetcode.com/problem-list/prefix-sum/?difficulty=HARD) |                             * [Hard](https://leetcode.com/problem-list/binary-search-tree/?difficulty=HARD)
 
 
 ## Main progress tracking
