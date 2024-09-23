@@ -6,24 +6,24 @@ My Interview Preparation process, resources, and findings.
 
 Added problem list, as I learn. That means, I started with Binary Search and went with Two Pointers, etc.
 
-| List 1       |                                                                                         List 2      |                                                                                 List 3      |
-| -------------|                                                                                        ------------- |                                                                        ------------- |
-| **Binary Search** |                                                                                   **Depth-First Search** |                                                              **Breadth-First Search**| 
-| * [Easy](https://leetcode.com/problem-list/binary-search/?difficulty=EASY) |                          * [Easy](https://leetcode.com/problem-list/depth-first-search/?difficulty=EASY) |     
-| * [Medium](https://leetcode.com/problem-list/binary-search/?difficulty=MEDIUM) |                      * [Medium](https://leetcode.com/problem-list/depth-first-search/?difficulty=MEDIUM) |
-| * [Hard](https://leetcode.com/problem-list/binary-search/?difficulty=HARD) |                          * [Hard](https://leetcode.com/problem-list/depth-first-search/?difficulty=HARD) |
-| **Two Pointers** |                                                                                    **Recursion** |
-| * [Easy](https://leetcode.com/problem-list/two-pointers/?difficulty=EASY) |                           * [Easy](https://leetcode.com/problem-list/recursion/?difficulty=EASY)
-| * [Medium](https://leetcode.com/problem-list/two-pointers/?difficulty=MEDIUM) |                       * [Medium](https://leetcode.com/problem-list/recursion/?difficulty=MEDIUM)
-| * [Hard](https://leetcode.com/problem-list/two-pointers/?difficulty=HARD) |                           * [Hard](https://leetcode.com/problem-list/recursion/?difficulty=HARD)
-| **Sliding Window** |                                                                                  **Linked List** |
-| * [Easy](https://leetcode.com/problem-list/sliding-window/?difficulty=EASY) |                         * [Easy](https://leetcode.com/problem-list/linked-list/?difficulty=EASY)
-| * [Medium](https://leetcode.com/problem-list/sliding-window/?difficulty=MEDIUM) |                     * [Medium](https://leetcode.com/problem-list/linked-list/?difficulty=MEDIUM)
-| * [Hard](https://leetcode.com/problem-list/sliding-window/?difficulty=HARD) |                         * [Hard](https://leetcode.com/problem-list/linked-list/?difficulty=MEDIUM)
-| **Prefix Sum** |                                                                                      **Binary Search Tree** |
-| * [Easy](https://leetcode.com/problem-list/prefix-sum/?difficulty=EASY) |                             * [Easy](https://leetcode.com/problem-list/binary-search-tree/?difficulty=EASY)
-| * [Medium](https://leetcode.com/problem-list/prefix-sum/?difficulty=MEDIUM) |                         * [Medium](https://leetcode.com/problem-list/binary-search-tree/?difficulty=MEDIUM)
-| * [Hard](https://leetcode.com/problem-list/prefix-sum/?difficulty=HARD) |                             * [Hard](https://leetcode.com/problem-list/binary-search-tree/?difficulty=HARD)
+| List 1                                                                          | List 2                                                                              | List 3                   |
+| ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------ |
+| **Binary Search**                                                               | **Depth-First Search**                                                              | **Breadth-First Search** |
+| * [Easy](https://leetcode.com/problem-list/binary-search/?difficulty=EASY)      | * [Easy](https://leetcode.com/problem-list/depth-first-search/?difficulty=EASY)     | * [Easy](https://leetcode.com/problem-list/breadth-first-search/?difficulty=EASY)                                                                |
+| * [Medium](https://leetcode.com/problem-list/binary-search/?difficulty=MEDIUM)  | * [Medium](https://leetcode.com/problem-list/depth-first-search/?difficulty=MEDIUM) | * [Medium](https://leetcode.com/problem-list/breadth-first-search/?difficulty=MEDIUM)                                                                |                         |
+| * [Hard](https://leetcode.com/problem-list/binary-search/?difficulty=HARD)      | * [Hard](https://leetcode.com/problem-list/depth-first-search/?difficulty=HARD)     | * [Hard](https://leetcode.com/problem-list/breadth-first-search/?difficulty=Hard)                                                                |                        |
+| **Two Pointers**                                                                | **Recursion**                                                                       |                          |
+| * [Easy](https://leetcode.com/problem-list/two-pointers/?difficulty=EASY)       | * [Easy](https://leetcode.com/problem-list/recursion/?difficulty=EASY)              |                          |
+| * [Medium](https://leetcode.com/problem-list/two-pointers/?difficulty=MEDIUM)   | * [Medium](https://leetcode.com/problem-list/recursion/?difficulty=MEDIUM)          |                          |
+| * [Hard](https://leetcode.com/problem-list/two-pointers/?difficulty=HARD)       | * [Hard](https://leetcode.com/problem-list/recursion/?difficulty=HARD)              |                          |
+| **Sliding Window**                                                              | **Linked List**                                                                     |                          |
+| * [Easy](https://leetcode.com/problem-list/sliding-window/?difficulty=EASY)     | * [Easy](https://leetcode.com/problem-list/linked-list/?difficulty=EASY)            |                          |
+| * [Medium](https://leetcode.com/problem-list/sliding-window/?difficulty=MEDIUM) | * [Medium](https://leetcode.com/problem-list/linked-list/?difficulty=MEDIUM)        |                          |
+| * [Hard](https://leetcode.com/problem-list/sliding-window/?difficulty=HARD)     | * [Hard](https://leetcode.com/problem-list/linked-list/?difficulty=MEDIUM)          |                          |
+| **Prefix Sum**                                                                  | **Binary Search Tree**                                                              |                          |
+| * [Easy](https://leetcode.com/problem-list/prefix-sum/?difficulty=EASY)         | * [Easy](https://leetcode.com/problem-list/binary-search-tree/?difficulty=EASY)     |                          |
+| * [Medium](https://leetcode.com/problem-list/prefix-sum/?difficulty=MEDIUM)     | * [Medium](https://leetcode.com/problem-list/binary-search-tree/?difficulty=MEDIUM) |                          |
+| * [Hard](https://leetcode.com/problem-list/prefix-sum/?difficulty=HARD)         | * [Hard](https://leetcode.com/problem-list/binary-search-tree/?difficulty=HARD)     |                          |
 
 
 ## Main progress tracking
