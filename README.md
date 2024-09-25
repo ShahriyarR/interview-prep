@@ -55,7 +55,7 @@ The following resource I use to understand, what my progress is and how I need t
 * [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
 * [Meta-Coding Interview Preparation](https://www.coursera.org/learn/coding-interview-preparation)
 
-## Weekly progress
+## Weekly Leetcode Progress
 
 * 13.09.2024 - Friday
 
