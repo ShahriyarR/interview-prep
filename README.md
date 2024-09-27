@@ -65,5 +65,9 @@ The following resource I use to understand, what my progress is and how I need t
 
 ![Screenshot from 2024-09-20 19-57-37](https://github.com/user-attachments/assets/761469b9-83fc-4b37-970d-2a10d4fb74db)
 
+* 27.09.2024 - Friday
+
+![Screenshot from 2024-09-27 19-50-08](https://github.com/user-attachments/assets/87835541-1351-441c-a94e-35791ebe461b)
+
 
 
