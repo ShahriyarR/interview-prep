@@ -73,4 +73,10 @@ The following resource I use to understand, what my progress is and how I need t
   
 ![Screenshot from 2024-10-05 18-24-45](https://github.com/user-attachments/assets/2cfa9653-ab68-4dbe-be06-bacbc56b64ef)
 
+* 11.10.2024 - Friday
+
+![Screenshot from 2024-10-11 09-14-00](https://github.com/user-attachments/assets/aceb5083-6335-4945-a111-060f347a8e13)
+
+
+
 
