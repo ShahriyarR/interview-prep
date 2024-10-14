@@ -41,6 +41,7 @@ The following resource I use to understand, what my progress is and how I need t
 * [Cracking FAANG](https://www.youtube.com/@crackfaang)
 * [Neetcode](https://www.youtube.com/@NeetCode)
 * [Greg Hogg](https://www.youtube.com/@GregHogg)
+* [Nikhil Lohia](https://www.youtube.com/@nikoo28)
 
 ## Specific topics, that I find extremely helpful
 
