@@ -86,7 +86,7 @@ The following resource I use to understand, what my progress is and how I need t
 
 ![Screenshot from 2024-10-26 08-57-29](https://github.com/user-attachments/assets/7d8e2d43-258d-4a80-8c75-751ee0059db9)
 
-* 01.11.2024 - Friday
+* 01.11.2024 - Friday (a week-long travel to Italy)
 
 ![Screenshot from 2024-11-03 11-09-56](https://github.com/user-attachments/assets/f8a7bdde-c760-405d-9b56-8a02ef3f279a)
 
