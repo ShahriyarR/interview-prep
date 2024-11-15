@@ -90,9 +90,14 @@ The following resource I use to understand, what my progress is and how I need t
 
 ![Screenshot from 2024-11-03 11-09-56](https://github.com/user-attachments/assets/f8a7bdde-c760-405d-9b56-8a02ef3f279a)
 
-* 08.11.2024 - Friday (a bit lost the traction, less motivation and changed focus)
+* 08.11.2024 - Friday (a bit lost the traction, less motivation, and changed focus)
 
 ![Screenshot from 2024-11-08 12-10-30](https://github.com/user-attachments/assets/d42ae2bc-2b54-4928-9dd8-2fb5bef0b7d2)
+
+* 15.11.2024 - Friday (still trying to have more motivation)
+
+![Screenshot from 2024-11-15 12-42-04](https://github.com/user-attachments/assets/e2207d67-e970-4a40-a94b-c7735821bc60)
+
 
 
 
