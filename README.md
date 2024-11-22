@@ -98,7 +98,11 @@ The following resource I use to understand, what my progress is and how I need t
 
 ![Screenshot from 2024-11-15 12-42-04](https://github.com/user-attachments/assets/e2207d67-e970-4a40-a94b-c7735821bc60)
 
+* 22.11.2024 - Friday
 
+> This week was a bit hectic due to my full-time job and conference preparation at DevFest Berlin 2024. I also studied some urban mobility topics as a personal interest.
+
+![Screenshot from 2024-11-22 10-11-30](https://github.com/user-attachments/assets/fde2259a-52e0-402d-8ea3-3144d47bdadb)
 
 
 
