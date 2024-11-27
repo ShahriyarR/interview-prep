@@ -4,7 +4,7 @@ My Interview Preparation process, resources, and findings.
 
 ## Leetcode problem list
 
-Added problem list, as I learn. That means, I started with Binary Search and went with Two Pointers, etc.
+I added a problem list as I learned. That means I started with Binary Search and went with Two-Pointers, etc.
 
 | List 1                                                                          | List 2                                                                              | List 3                   |
 | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------ |
@@ -28,12 +28,13 @@ Added problem list, as I learn. That means, I started with Binary Search and wen
 
 ## Main progress tracking
 
-The following resource I use to understand, what my progress is and how I need to proceed.
+The following resource I use to understand my progress and how I need to proceed.
 
-* [Algo Monster](https://algo.monster/) -> I purchased the annual subscription, it has definitive sequential guidance and is more clear.
+* [Algo Monster](https://algo.monster/) -> I purchased the annual subscription, it has definitive sequential guidance and is more clear - **Premium**
+* [Leetcode](https://leetcode.com/u/srzayev/) -> I purchased the annual subscription, specifically focusing on Google card - **Premium**
 * [Algomap](https://algomap.io/) -> interesting resource to get the list of the problems we need to master.
-* [Neetcode](https://neetcode.io/) -> extra progress tracking and learning place (I will consider purchasing)
-* [Structy](https://structy.net/) -> currently passing the free lessons, for easy explanations this guy is an expert(later on probably will consider purchasing)
+* [Neetcode](https://neetcode.io/) -> extra progress tracking and learning place.
+* [Structy](https://structy.net/) -> currently passing the free lessons, for easy explanations this guy is an expert.
 * [Educative](https://www.educative.io/courses/grokking-coding-interview-patterns-python) -> as extra reading material for the solutions.
 
 ## Youtube channels
