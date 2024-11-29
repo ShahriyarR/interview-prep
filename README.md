@@ -101,9 +101,15 @@ The following resource I use to understand my progress and how I need to proceed
 
 * 22.11.2024 - Friday
 
-> This week was a bit hectic due to my full-time job and conference preparation at DevFest Berlin 2024. I also studied some urban mobility topics as a personal interest.
+> This week was a bit hectic due to my full-time job and conference preparation at DevFest Berlin 2024. I also studied some topics related to urban mobility as a personal interest.
 
 ![Screenshot from 2024-11-22 10-11-30](https://github.com/user-attachments/assets/fde2259a-52e0-402d-8ea3-3144d47bdadb)
+
+* 29.11.2024 - Friday
+
+> Purchased the Leetcode Premium and tried to follow some guides. I spotted that `Sliding Window` questions are weak points for me.
+
+![Screenshot from 2024-11-29 08-08-15](https://github.com/user-attachments/assets/8a7b76a2-7160-4b6a-a971-77c9fc5a3b53)
 
 
 
