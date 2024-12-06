@@ -111,5 +111,10 @@ The following resource I use to understand my progress and how I need to proceed
 
 ![Screenshot from 2024-11-29 08-08-15](https://github.com/user-attachments/assets/8a7b76a2-7160-4b6a-a971-77c9fc5a3b53)
 
+* 06.12.2024 - Friday
+> I Traveled to Vilnius for the team building. Started the [Youtube Leetcode Playlist](https://www.youtube.com/playlist?list=PL0xSLrZOcI4vJlQlP25Nmc2_mjY1jY3G9) in Azerbaijani.
+
+![Screenshot from 2024-12-06 13-32-35](https://github.com/user-attachments/assets/78e51dd1-c14d-4cab-b4d5-4780fc2168e3)
+
 
 
