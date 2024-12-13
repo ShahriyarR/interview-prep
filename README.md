@@ -114,7 +114,12 @@ The following resource I use to understand my progress and how I need to proceed
 * 06.12.2024 - Friday
 > I Traveled to Vilnius for the team building. Started the [Youtube Leetcode Playlist](https://www.youtube.com/playlist?list=PL0xSLrZOcI4vJlQlP25Nmc2_mjY1jY3G9) in Azerbaijani.
 
-![Screenshot from 2024-12-06 13-32-35](https://github.com/user-attachments/assets/78e51dd1-c14d-4cab-b4d5-4780fc2168e3)
+![Screenshot from 2024-12-06 13-32-35](https://github.com/user-attachments/assets/810b3076-e9d3-4f2c-b162-36fbfc8fcdda)
 
+
+* 13.12.2024 - Friday
+> Again lack of motivation hit me, in general work-related activities - end of the year.
+
+![Screenshot from 2024-12-13 08-09-26](https://github.com/user-attachments/assets/17959c3e-c6b3-4b02-941c-eed39994d3c0)
 
 
