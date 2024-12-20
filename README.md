@@ -122,4 +122,8 @@ The following resource I use to understand my progress and how I need to proceed
 
 ![Screenshot from 2024-12-13 08-09-26](https://github.com/user-attachments/assets/17959c3e-c6b3-4b02-941c-eed39994d3c0)
 
+* 20.12.2024 - Friday
+> End of the year, holidays, and increased work-load, all affect the dedication
+
+![Screenshot from 2024-12-20 08-19-14](https://github.com/user-attachments/assets/5688c7a0-7de7-4dab-a0e7-f48c6b74d75c)
 
