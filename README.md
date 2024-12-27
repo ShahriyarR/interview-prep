@@ -127,3 +127,9 @@ The following resource I use to understand my progress and how I need to proceed
 
 ![Screenshot from 2024-12-20 08-19-14](https://github.com/user-attachments/assets/5688c7a0-7de7-4dab-a0e7-f48c6b74d75c)
 
+* 27.12.2024 - The last Friday of 2024 :)
+> As holidays and I have no vacation days left, the work-load is so-so, but the holiday vibe affects my attention
+
+![Screenshot from 2024-12-27 10-40-04](https://github.com/user-attachments/assets/e09c82a1-bb4a-4470-a7d1-8cd7a2d6cbf1)
+
+
