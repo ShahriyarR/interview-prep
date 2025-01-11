@@ -133,7 +133,12 @@ The following resource I use to understand my progress and how I need to proceed
 ![Screenshot from 2024-12-27 10-40-04](https://github.com/user-attachments/assets/e09c82a1-bb4a-4470-a7d1-8cd7a2d6cbf1)
 
 * 03.01.2025 - The first Friday of 2025 :)
-> Only 1 challenge solved - clear indication of decreased interest, lack of motivation, increased depression and work load.
+> Only 1 challenge was solved, indicating decreased interest, lack of motivation, increased depression, and workload.
 
 ![Screenshot from 2025-01-03 16-23-31](https://github.com/user-attachments/assets/de8dff22-a145-4944-811b-e3b8b3d9c616)
+
+* 10.01.2025 - Friday
+> Mostly SQL challenges, started SQL 50 at Leetcode
+
+  ![Screenshot from 2025-01-11 21-06-35](https://github.com/user-attachments/assets/16445442-d44f-4ab0-bd0c-5dff7c731a43)
 
