@@ -37,6 +37,7 @@ The following resource I use to understand my progress and how I need to proceed
 * [Structy](https://structy.net/) -> currently passing the free lessons, for easy explanations this guy is an expert.
 * [Educative](https://www.educative.io/courses/grokking-coding-interview-patterns-python) -> as extra reading material for the solutions.
 * [Tech Interview Handbook Grind 75](https://www.techinterviewhandbook.org/grind75)
+* [Takeuforward](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
 
 ## Youtube channels
 
