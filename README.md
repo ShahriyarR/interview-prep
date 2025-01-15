@@ -36,6 +36,7 @@ The following resource I use to understand my progress and how I need to proceed
 * [Neetcode](https://neetcode.io/) -> extra progress tracking and learning place.
 * [Structy](https://structy.net/) -> currently passing the free lessons, for easy explanations this guy is an expert.
 * [Educative](https://www.educative.io/courses/grokking-coding-interview-patterns-python) -> as extra reading material for the solutions.
+* [Tech Interview Handbook Grind 75](https://www.techinterviewhandbook.org/grind75)
 
 ## Youtube channels
 
