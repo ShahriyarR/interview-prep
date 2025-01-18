@@ -59,7 +59,8 @@ The following resource I use to understand my progress and how I need to proceed
 * [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
 * [Meta-Coding Interview Preparation](https://www.coursera.org/learn/coding-interview-preparation)
 
-## Weekly Leetcode Progress
+## Weekly Leetcode Progress - I stopped tracking on 17.01.2025 - as now I understand that the LeetCode count makes less sense.
+> instead will focus on the progress with Blind 75 or Top 150 questions
 
 * 13.09.2024 - Friday
 
